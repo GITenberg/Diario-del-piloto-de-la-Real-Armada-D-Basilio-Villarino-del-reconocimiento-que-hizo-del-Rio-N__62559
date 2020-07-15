@@ -1,5 +1,8 @@
 _repo: Diario-del-piloto-de-la-Real-Armada-D-Basilio-Villarino-del-reconocimiento-que-hizo-del-Rio-N__62559
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62559-h/images/cover.jpg
 creator:
   author:
     agent_name: Villarino, Basilio
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Basilio_Villarino
     - https://es.wikipedia.org/wiki/Basilio_Villarino
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62559#Diario-del-piloto-de-la-Real-Armada-D-Basilio-Villarino-del-reconocimiento-que-hizo-del-Rio-N_
 gutenberg_issued: '2020-07-05'
 gutenberg_type: Text
 identifiers:
