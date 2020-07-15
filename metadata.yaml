@@ -1,0 +1,29 @@
+_repo: Diario-del-piloto-de-la-Real-Armada-D-Basilio-Villarino-del-reconocimiento-que-hizo-del-Rio-N__62559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Villarino, Basilio
+    birthdate: 1741
+    deathdate: 1785
+    gutenberg_agent_id: '3931'
+    url: http://www.gutenberg.org/2009/agents/3931
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Basilio_Villarino
+    - https://es.wikipedia.org/wiki/Basilio_Villarino
+description: ''
+gutenberg_issued: '2020-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62559'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Río Negro (Argentina) -- Description and travel'
+- !lcsh 'Argentina -- Description and travel'
+- !lcc 'F2801'
+- GITenberg
+title: Diario del piloto de la Real Armada, D. Basilio Villarino, del reconocimiento,
+  que hizo del Río Negro, en la costa oriental de Patagonia, el año de 1782
+url: http://www.gutenberg.org/ebooks/62559
